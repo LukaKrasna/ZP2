@@ -41,6 +41,20 @@ set ListPrice=ListPrice*1.1 from [SalesLT].[Product]
 where ProductCategoryID=47
 --4. Nastavi DiscountinueDate za vse produkte iz tabele SalesLT.Product v kategoriji luèi (ID
 --kategorije je 37) na današnji datum, razen za luè, ki si jo dodal v toèki ena.
+select * from [SalesLT].[Product]
+where Name like '%Light%'
 
+update [SalesLT].[Product]
+set DiscontinuedDate=GETDATE()
+where Name like '%Light%' and Name not like 'LED Lights1'
 --5. Izbriši produkte iz tabele SalesLT.Product v kategoriji »Bells and Horns«, nato pa izbriši tudi
 --kategorijo »Bells and Horns« v tabeli SalesLT.ProductCategory
+select * from [SalesLT].[Product]
+where ProductCategoryID=47
+select * from [SalesLT].[ProductCategory]
+where Name='Bells and Horns1'
+
+delete from [SalesLT].[Product]
+where ProductCategoryID=47
+delete from [SalesLT].[ProductCategory]
+where Name='Bells and Horns1'
