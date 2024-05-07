@@ -1,0 +1,16 @@
+﻿Kratica oddelka;Program;Število dijakov/študentov;Skupine;Oddelek
+1IR;informatika;50;1sk,2sk;1IR-informatika
+2IR;informatika;25;;2IR-informatika
+1IO/2IO/3IO;informatika;;;1IO/2IO/3IO-informatika
+1KR;UPK;15;;1KR-UPK
+2KR;UPK;10;;2KR-UPK
+1MR;mehatronika;25;1sk,2sk;1MR-mehatronika
+2MR;mehatronika;25;1sk,2sk;2MR-mehatronika
+1MO/2MO/3MO;mehatronika;15;;1MO/2MO/3MO - meh odrasli
+1IR/1MR;inf,meh;;;1IR/1MR-inf,meh
+2IR/2MR;inf,meh;;;2IR/2MR-inf,meh
+1IR/1MR/1KR;inf,meh, upk;;;1IR/1MR/1KR-inf,meh, upk
+1KR/2IR/2MR;inf,meh, upk;;;1KR/2IR/2MR-inf,meh, upk
+1KR/2KR;upk;;;1KR/2KR-upk
+PRO;Projekti;;;PRO-Projekti
+1IO/2IO/1MO/2MO;Informatika/Mehatronika ;20;;1IO/2IO/1MO/2MO-Informatika/Mehatronika 

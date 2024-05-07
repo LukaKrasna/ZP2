@@ -1,0 +1,150 @@
+﻿Šola-enota;Oddelek/Projekt;Predmet/Opis dela;Vrsta obveze;Zaposleni;Letno število ur/število dijakov/delež zaposlitve;Obremenitev;Obravnava;Skupina;Dolžina bloka;Št. blokov;Učilnice;Letnik;Semester
+VSŠ;2IR-informatika;INS-Informacijski sistemi-predavanja;Predavatelj VSŠ 7/2;ABOLNAR SIMON;36;0,09;3;;;;;2;3
+VSŠ;2IR-informatika;INS-Informacijski sistemi-vaje;Predavatelj VSŠ 7/2;ABOLNAR SIMON;24;0,06;3;;;;;2;3
+VSŠ;1IR-informatika;ORS-Osnove zgradbe in delovanja računalniških sistemov -vaje;Predavatelj VSŠ 7/2;ABOLNAR SIMON;24;0,06;3;1sk;3;1;VN8;1;1
+VSŠ;1IR-informatika;ORS-Osnove zgradbe in delovanja računalniških sistemov -vaje;Predavatelj VSŠ 7/2;ABOLNAR SIMON;24;0,06;3;2sk;3;1;VN8;1;1
+VSŠ;1IR-informatika;ORS-Osnove zgradbe in delovanja računalniških sistemov-predavanja;Predavatelj VSŠ 7/2;ABOLNAR SIMON;48;0,13;3;;2;2;VN8;1;1
+VSŠ;1IR-informatika;RKO1-Računalniške komunikacije in omrežja I-predavanja;Predavatelj VSŠ 7/2;ABOLNAR SIMON;48;0,13;3;;;;;1;2
+VSŠ;1IR-informatika;RKO1-Računalniške komunikacije in omrežja I-vaje;Predavatelj VSŠ 7/2;ABOLNAR SIMON;24;0,06;3;1sk;;;;1;2
+VSŠ;1IR-informatika;RKO1-Računalniške komunikacije in omrežja I-vaje;Predavatelj VSŠ 7/2;ABOLNAR SIMON;24;0,06;3;2sk;;;;1;2
+VSŠ;2IR-informatika;RKO2-Računalniške komunikacije in omrežja II-predavanja;Predavatelj VSŠ 7/2;ABOLNAR SIMON;36;0,09;3;;2;2;VN8;2;1
+VSŠ;2IR-informatika;RKO2-Računalniške komunikacije in omrežja II-vaje;Predavatelj VSŠ 7/2;ABOLNAR SIMON;36;0,09;3;;4;1;;2;1
+VSŠ;2IR-informatika;OPS2-Operacijski sistemi II-predavanja;Predavatelj VSŠ 7/2;BLAŽIČ LEON;24;0,06;3;;3;1;MP-06;2;1
+VSŠ;2IR-informatika;OPS2-Operacijski sistemi II-vaje;Predavatelj VSŠ 7/2;BLAŽIČ LEON;48;0,13;3;;4;1;B24;2;1
+VSŠ;2MR-mehatronika;PIM-Pogoni in mehanizmi - predavanja;Predavatelj VSŠ 7/2;BLAŽIČ LEON;18;0,05;3;;;;;2;1
+VSŠ;2MR-mehatronika;PIM-Pogoni in mehanizmi - vaje;Predavatelj VSŠ 7/2;BLAŽIČ LEON;18;0,05;3;;;;;2;1
+VSŠ;2IR-informatika;RVP-Računalniško vodeni procesi - predavanja;Predavatelj VSŠ 7/2;BLAŽIČ LEON;36;0,09;3;;;;;2;3
+VSŠ;2IR-informatika;RVP-Računalniško vodeni procesi - Vaje;Predavatelj VSŠ 7/2;BLAŽIČ LEON;36;0,09;3;;;;;2;3
+VSŠ;2IR-informatika;VIZ-Varnost in zaščita-predavanja;Predavatelj VSŠ 7/2;BLAŽIČ LEON;36;0,09;3;;;;;2;3
+VSŠ;2IR-informatika;VIZ-Varnost in zaščita-vaje;Predavatelj VSŠ 7/2;BLAŽIČ LEON;36;0,09;3;;;;;2;3
+VSŠ;1MR-mehatronika;TRV-Trajnostni razvoj-predavanja;Predavatelj VSŠ 7/2;BOŽIČ  IVAN;36;0,09;2;;3;1;MP-06;1;1
+VSŠ;1MR-mehatronika;TRV-Trajnostni razvoj-sem vaje;Predavatelj VSŠ 7/2;BOŽIČ  IVAN;12;0,03;3;;2;1;MP-06;1;1
+VSŠ;2MR-mehatronika;PRA-Programiranje v avtomatiki-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;36;0,11;3;;;;MEH;2;3
+VSŠ;2MR-mehatronika;PRA-Programiranje v avtomatiki-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;36;0,11;3;;;;MEH;2;3
+VSŠ;2MR-mehatronika;ROB1-Robotski sistemi-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;36;0,11;3;;;;MEH;2;3
+VSŠ;2MR-mehatronika;ROB1-Robotski sistemi-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;36;0,11;3;;;;MEH;2;3
+VSŠ;1MR-mehatronika;SME1-Sistemi mehatronike I-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;42;0,13;3;;2;1;MEH;1;2
+VSŠ;1MR-mehatronika;SME1-Sistemi mehatronike I-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;48;0,14;3;1sk;2;2;MEH;1;2
+VSŠ;1MR-mehatronika;SME1-Sistemi mehatronike I-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;48;0,14;3;2sk;3;1;MEH;1;2
+VSŠ;2MR-mehatronika;SME2-Sistemi mehatronike II-lab vaje;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;48;0,14;0;;4;1;MEH;2;1
+VSŠ;2MR-mehatronika;SME2-Sistemi mehatronike II-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;ČERMELJ TOMISLAV;36;0,11;0;;4;1;MEH;2;1
+VSŠ;1IR-informatika;OPS1-Operacijski sistemi I-predavanja;Predavatelj VSŠ 7/2;HAREJ JANKO;24;0,06;0;;3;1;MP06;1;1
+VSŠ;1IR-informatika;OPS1-Operacijski sistemi I-vaje;Predavatelj VSŠ 7/2;HAREJ JANKO;24;0,06;3;1sk;3;1;B24;1;1
+VSŠ;1IR-informatika;OPS1-Operacijski sistemi I-vaje;Predavatelj VSŠ 7/2;HAREJ JANKO;24;0,06;3;2sk;3;1;B24;1;1
+VSŠ;2IR-informatika;VSO-Vzdrževanje sistemske programske opreme-predavanja;Predavatelj VSŠ 7/2;HAREJ JANKO;24;0,06;3;;;;;2;3
+VSŠ;2IR-informatika;VSO-Vzdrževanje sistemske programske opreme-vaje;Predavatelj VSŠ 7/2;HAREJ JANKO;48;0,13;3;;;;;2;3
+VSŠ;1IR-informatika;ZBP1-Zbirke podatkov I-predavanja;Predavatelj VSŠ 7/2;HAREJ JANKO;36;0,09;3;;;;;1;2
+VSŠ;1IR-informatika;ZBP1-Zbirke podatkov I-vaje;Predavatelj VSŠ 7/2;HAREJ JANKO;48;0,13;3;1sk;;;;1;2
+VSŠ;1IR-informatika;ZBP1-Zbirke podatkov I-vaje;Predavatelj VSŠ 7/2;HAREJ JANKO;48;0,13;3;2sk;;;;1;2
+VSŠ;1MR-mehatronika;MRT-Meritve-vaje;Inštruktor 7/1, 7/2;IPAVEC EDVARD;36;0,08;3;1sk;;;;1;2
+VSŠ;1MR-mehatronika;MRT-Meritve-vaje;Inštruktor 7/1, 7/2;IPAVEC EDVARD;36;0,08;3;2sk;;;;1;2
+VSŠ;2MR-mehatronika;RPT-Računalniško podprte tehnologije-predavanja;Predavatelj VSŠ 7/2;JERIČ BRANKO;24;0,06;3;;3;1;M3-23;2;1
+VSŠ;2MR-mehatronika;RPT-Računalniško podprte tehnologije-vaje;Predavatelj VSŠ 7/2;JERIČ BRANKO;48;0,13;3;;4;1;M3-23;2;1
+VSŠ;2MR-mehatronika;RPT-Računalniško podprte tehnologije-vaje;Predavatelj VSŠ 7/2;JERIČ BRANKO;36;0,09;3;;4;1;M3-23;2;1
+VSŠ;1MR-mehatronika;;Laborant 6 (VSŠ) ZNIŽANO;JUG VLADIMIR;276;0,5;3;;;;;1,2;1,2,3
+VSŠ;1MR-mehatronika;MRT-Meritve-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;KAČIČ MILIVOJ;21;0,06;3;;;;;1;2
+VSŠ;1MR-mehatronika;MRT-Meritve-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;KAČIČ MILIVOJ;12;0,04;3;;;;;1;2
+VSŠ;1MR-mehatronika;MRT-Meritve-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;KAČIČ MILIVOJ;12;0,04;3;;;;;1;2
+VSŠ;1MR-mehatronika;OST-Osnove strojništva-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;KAČIČ MILIVOJ;42;0,13;3;;2;2;MP-06;1;1
+VSŠ;1MR-mehatronika;OST-Osnove strojništva-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;KAČIČ MILIVOJ;24;0,07;3;;2;1;C-13;1;1
+VSŠ;1MR-mehatronika;OST-Osnove strojništva-vaje;Predavatelj VSŠ 7/2 ZNIŽANO;KAČIČ MILIVOJ;24;0,07;3;;2;1;C-13;1;1
+VSŠ;1MR-mehatronika;MRT-Meritve-predavanja;Predavatelj VSŠ 7/2;KENDA MITJA;21;0,05;3;;;;;1;2
+VSŠ;1MR-mehatronika;OET-Osnove elektrotehnike-predavanja;Predavatelj VSŠ 7/2;KENDA MITJA;42;0,11;3;;2;2;MP-06;1;1
+VSŠ;1MR-mehatronika;OET-Osnove elektrotehnike-vaje;Predavatelj VSŠ 7/2;KENDA MITJA;24;0,06;3;;2;1;M1-04;1;1
+VSŠ;1MR-mehatronika;OET-Osnove elektrotehnike-vaje;Predavatelj VSŠ 7/2;KENDA MITJA;24;0,06;0;;2;1;M1-04;1;1
+VSŠ;1KR/2KR-upk;GSV-Gospodarjenje v sadjarstvu in vinogradništvu - sem vaje;Predavatelj VSŠ 7/2;KODRIČ IVAN;3;0,01;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;GSV-Gospodarjenje v sadjarstvu in vinogradništvu - vaje;Predavatelj VSŠ 7/2;KODRIČ IVAN;26;0,07;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;GSV-Gospodarjenje v sadjarstvu in vinogradništvu- predavanja;Predavatelj VSŠ 7/2;KODRIČ IVAN;36;0,09;3;;;;;1,2;2
+VSŠ;2KR-UPK;OIP-Organizacija in poslovanje-predavanja;Predavatelj VSŠ 7/2;KRAGELJ INGRID;60;0,16;3;;3;1;MP-07;2;1,2
+VSŠ;2KR-UPK;OIP-Organizacija in poslovanje-sem vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;6;0,02;3;;;;;2;1,2
+VSŠ;2KR-UPK;OIP-Organizacija in poslovanje-vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;48;0,13;3;;3;1;B-23;2;1,2
+VSŠ;1MR-mehatronika;RAI-Računalništvo in informatika-lab vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;48;0,13;3;;;;;1;2
+VSŠ;1IR-informatika;RAI-Računalništvo in informatika-lab vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;48;0,13;3;1sk;3;2;B23;1;1
+VSŠ;1IR-informatika;RAI-Računalništvo in informatika-lab vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;48;0,13;3;2sk;3;2;B23;1;1
+VSŠ;1IR/1MR-inf,meh;RAI-Računalništvo in informatika-predavanja;Predavatelj VSŠ 7/2;KRAGELJ INGRID;24;0,06;3;;;;MP-05;1;1,2
+VSŠ;1KR-UPK;SIS-Strokovna informatika in statistične metode vrednotenja-lab vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;24;0,06;3;;;;;1;2
+VSŠ;1KR-UPK;SIS-Strokovna informatika in statistične metode vrednotenja-predavanja;Predavatelj VSŠ 7/2;KRAGELJ INGRID;18;0,05;3;;;;;1;2
+VSŠ;1KR-UPK;SIS-Strokovna informatika in statistične metode vrednotenja-sem vaje;Predavatelj VSŠ 7/2;KRAGELJ INGRID;6;0,02;3;;;;;1;2
+VSŠ;2MR-mehatronika;TPP-Tehniški predpisi in projektiranje-vaje;Predavatelj VSŠ 7/2;Mahle - zunanji;12;0,03;3;;;;;2;3
+VSŠ;2IR-informatika;ELP-Elektronsko poslovanje-vaje;Inštruktor 7/1, 7/2;MARČETIĆ MARKO;36;0,08;0;;2;2;B23;2;1
+VSŠ;1IR-informatika;PRO1-Programiranje I- vaje ;Inštruktor 7/1, 7/2;MARČETIĆ MARKO;48;0,1;0;;;;;1;2
+VSŠ;2IR-informatika;ELP-Elektronsko poslovanje-predavanja;Predavatelj VSŠ 7/2 ZNIŽANO;MARČETIĆ SLOBODAN;36;0,11;0;;3;1;VN8;2;1
+VSŠ;1KR/2KR-upk;GSV-Gospodarjenje v sadjarstvu in vinogradništvu - sem vaje;Predavatelj VSŠ 7/2;MAVRIČ ŠTRUKELJ MOJCA;3;0,01;0;;;;;1,2;2
+VSŠ;1KR/2KR-upk;GSV-Gospodarjenje v sadjarstvu in vinogradništvu - vaje;Predavatelj VSŠ 7/2;MAVRIČ ŠTRUKELJ MOJCA;16;0,04;0;;;;;1,2;2
+VSŠ;1KR/2KR-upk;GSV-Gospodarjenje v sadjarstvu in vinogradništvu- predavanja;Predavatelj VSŠ 7/2;MAVRIČ ŠTRUKELJ MOJCA;18;0,05;3;;;;;1,2;2
+VSŠ;1MR-mehatronika;;Sistemski administrator 7/1;MERVIČ KLAVDIJ;20;0,2;3;;;;;1,2;1,2,3
+VSŠ;2KR-UPK;RPZ-Razvoj podeželja z zakonodajo-predavanja;Predavatelj VSŠ 7/2;MICHAELA VIDIČ;4;0,01;3;;;;MP-07;2;1
+VSŠ;2IR/2MR-inf,meh;KTS-Komunikacijske tehnologije in storitve-predavanja;Predavatelj VSŠ 7/2;PODBRŠČEK MILAN;12;0,03;3;;;;;2;3
+VSŠ;2IR/2MR-inf,meh;KTS-Komunikacijske tehnologije in storitve-vaje;Predavatelj VSŠ 7/2;PODBRŠČEK MILAN;36;0,09;3;;;;;2;3
+VSŠ;1MO/2MO/3MO - meh odrasli;RAI-Računalništvo in informatika-vaje;Predavatelj VSŠ 7/2;PODBRŠČEK MILAN;30;0,08;3;;;;;;
+VSŠ;PRO-Projekti;CON-Projekt Cona;Predavatelj VSŠ 7/2;POŠA IVANA;115;0,3;3;;;;;;1,2
+VSŠ;1KR/2KR-upk;GPV-Gospodarjenje v poljedelstvu in vrtnarstvu - predavanja;Predavatelj VSŠ 7/2;POŠA IVANA;30;0,08;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;GPV-Gospodarjenje v poljedelstvu in vrtnarstvu - sem vaje;Predavatelj VSŠ 7/2;POŠA IVANA;6;0,02;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;GPV-Gospodarjenje v poljedelstvu in vrtnarstvu - vaje;Predavatelj VSŠ 7/2;POŠA IVANA;48;0,13;3;;;;;1,2;2
+VSŠ;1KR-UPK;PRI-Praktično izobraževanje UPK-organizacija;Predavatelj VSŠ 7/2 organizacija PRI;POŠA IVANA;0;0;3;;;;;1;3
+VSŠ;2KR-UPK;PRI-Praktično izobraževanje UPK-organizacija;Predavatelj VSŠ 7/2 organizacija PRI;POŠA IVANA;0;0;3;;;;;2;3
+VSŠ;1KR-UPK;RPR-Rastlinska pridelava in reja živali-predavanja;Predavatelj VSŠ 7/2;POŠA IVANA;26;0,07;3;;;;;1;2
+VSŠ;1KR/2KR-upk;VPR-Vodja programskega področja UPK;Predavatelj VSŠ 7/2;POŠA IVANA;39;0,1;3;;;;;;1,2,3
+VSŠ;1KR/2KR-upk;GPV-Gospodarjenje v poljedelstvu in vrtnarstvu - predavanja;Predavatelj VSŠ 7/2;POŽENEL ANKA;30;0,08;3;;;;;1;2
+VSŠ;1IR-informatika;PRO1-Programiranje I- vaje ;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;48;0,13;3;2sk;;;;1;2
+VSŠ;1IR-informatika;PRO1-Programiranje I-predavanja;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;36;0,09;3;;;;;1;2
+VSŠ;2IR-informatika;PRO2-Programiranje II-predavanja;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;36;0,09;3;;2;2;B23;2;1
+VSŠ;2IR-informatika;PRO2-Programiranje II-vaje;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;48;0,13;3;;4;1;B23;2;1
+VSŠ;2IR-informatika;RPA-Razvoj programskih aplikacij-predavanja;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;24;0,06;3;;;;;2;3
+VSŠ;2IR-informatika;RPA-Razvoj programskih aplikacij-vaje;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;36;0,09;3;;;;;2;3
+VSŠ;2IR-informatika;ZBP2-Zbirke podatkov II-predavanja;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;36;0,09;3;;;;;2;3
+VSŠ;2IR-informatika;ZBP2-Zbirke podatkov II-vaje;Predavatelj VSŠ 7/2;PUŠNAR BARBARA;48;0,13;3;;;;;2;3
+VSŠ;2IR/2MR-inf,meh;KTS-Komunikacijske tehnologije in storitve-predavanja;Predavatelj VSŠ 7/2;SAKSIDA MIRAN;24;0,06;3;;;;;2;3
+VSŠ;1MR-mehatronika;STJ-Strokovna terminologija v tujem jeziku -predavanja;Predavatelj VSŠ 7/2;SIRK SAŠA;48;0,13;3;;;;;1;2
+VSŠ;1IO/2IO/1MO/2MO-Informatika/Mehatronika ;STJ-Strokovna terminologija v tujem jeziku -predavanja;Predavatelj VSŠ 7/2;SIRK SAŠA;24;0,06;3;;;;;;
+VSŠ;1KR-UPK;STJ-Strokovna terminologija v tujem jeziku -predavanja;Predavatelj VSŠ 7/2;SIRK SAŠA;30;0,08;3;;3;1;MP-07;1;1
+VSŠ;1MR-mehatronika;STJ-Strokovna terminologija v tujem jeziku -sem vaje;Predavatelj VSŠ 7/2;SIRK SAŠA;36;0,09;3;;;;;1;2
+VSŠ;1IO/2IO/1MO/2MO-Informatika/Mehatronika ;STJ-Strokovna terminologija v tujem jeziku -sem vaje;Predavatelj VSŠ 7/2;SIRK SAŠA;18;0,05;3;;;;;;
+VSŠ;1KR-UPK;STJ-Strokovna terminologija v tujem jeziku -sem vaje;Predavatelj VSŠ 7/2;SIRK SAŠA;30;0,08;3;;3;1;MP-07;1;1
+VSŠ;1KR-UPK;TRB-Trajnostni razvoj z izbranimi poglavji iz biologije - predavanja;Predavatelj VSŠ 7/2;SMOLE ĐORĐEVIĆ MAJA;12;0,03;3;;;;;1;2
+VSŠ;1KR-UPK;TRB-Trajnostni razvoj z izbranimi poglavji iz biologije-lab vaje;Predavatelj VSŠ 7/2;SMOLE ĐORĐEVIĆ MAJA;36;0,09;3;;;;;1;2
+VSŠ;1KR/2KR-upk;VNV-Varovanje naravnih vrednot in biotske raznovrstnosti-predavanja;Predavatelj VSŠ 7/2;SMOLE ĐORĐEVIĆ MAJA;54;0,14;3;;3;2;MP-07;1,2;1
+VSŠ;1KR/2KR-upk;VNV-Varovanje naravnih vrednot in biotske raznovrstnosti-vaje;Predavatelj VSŠ 7/2;SMOLE ĐORĐEVIĆ MAJA;42;0,11;3;;2;2;MP-07;1,2;1
+VSŠ;2MR-mehatronika;TPP-Tehniški predpisi in projektiranje-predavanja;Predavatelj VSŠ 7/2;Strojnik;36;0,09;8;;;;;2;3
+VSŠ;1KR/2KR-upk;VDŽ-Zdravstveno varstvo domačih živali-predavanja;Predavatelj VSŠ 7/2;ŠTRUKELJ EGON;54;0,14;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;VDŽ-Zdravstveno varstvo domačih živali-sem vaje;Predavatelj VSŠ 7/2;ŠTRUKELJ EGON;3;0,01;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;VDŽ-Zdravstveno varstvo domačih živali-vaje;Predavatelj VSŠ 7/2;ŠTRUKELJ EGON;21;0,05;3;;;;;1,2;2
+VSŠ;1KR/2IR/2MR-inf,meh, upk;EKP-Ekonomika podjetij-predavanja;Predavatelj VSŠ 7/2;TANKOSIĆ ALEŠ;48;0,13;3;;2;2;MP-06;1,2;1
+VSŠ;2IR-informatika;EKP-Ekonomika podjetij-sem vaje;Predavatelj VSŠ 7/2;TANKOSIĆ ALEŠ;24;0,06;3;;3;1;MP-06;2;1
+VSŠ;2MR-mehatronika;EKP-Ekonomika podjetij-sem vaje;Predavatelj VSŠ 7/2;TANKOSIĆ ALEŠ;12;0,03;3;;;;MP-06;2;1
+VSŠ;2IR-informatika;EKP-Ekonomika podjetij-vaje;Predavatelj VSŠ 7/2;TANKOSIĆ ALEŠ;24;0,06;3;;2;1;B24;2;1
+VSŠ;2MR-mehatronika;EKP-Ekonomika podjetij-vaje;Predavatelj VSŠ 7/2;TANKOSIĆ ALEŠ;24;0,06;3;;2;2;B24;2;1
+VSŠ;1IR-informatika;PRI-Praktično izobraževanje INF-organizacija;Predavatelj VSŠ 7/2 organizacija PRI;TANKOSIĆ ALEŠ;57;0,38;3;;;;;1;3
+VSŠ;2IR-informatika;PRI-Praktično izobraževanje INF-organizacija;Predavatelj VSŠ 7/2 organizacija PRI;TANKOSIĆ ALEŠ;32;0,21;3;;;;;2;2
+VSŠ;1MR-mehatronika;PRI-Praktično izobraževanje MEH-organizacija;Predavatelj VSŠ 7/2 organizacija PRI;TANKOSIĆ ALEŠ;30;0,2;3;;;;;1;3
+VSŠ;2MR-mehatronika;PRI-Praktično izobraževanje MEH-organizacija;Predavatelj VSŠ 7/2 organizacija PRI;TANKOSIĆ ALEŠ;30;0,2;3;;;;;2;2
+VSŠ;2MR-mehatronika;PIM-Pogoni in mehanizmi - predavanja;Predavatelj VSŠ 7/2;VERMIGLIO ROBERT;18;0,05;3;;2;1;M3-21;2;3
+VSŠ;2MR-mehatronika;PIM-Pogoni in mehanizmi - vaje;Predavatelj VSŠ 7/2;VERMIGLIO ROBERT;18;0,05;3;;2;1;M3-21;2;3
+VSŠ;2MR-mehatronika;TPP-Tehniški predpisi in projektiranje-sem vaje;Predavatelj VSŠ 7/2;VERMIGLIO ROBERT;24;0,06;3;;;;;2;3
+VSŠ;2MR-mehatronika;TPR-Tehnološki procesi-predavanja;Predavatelj VSŠ 7/2;VERMIGLIO ROBERT;36;0,09;3;;;;;2;1
+VSŠ;2MR-mehatronika;TPR-Tehnološki procesi-vaje;Predavatelj VSŠ 7/2;VERMIGLIO ROBERT;36;0,09;3;;;;;2;1
+VSŠ;2IR-informatika;ISS-Izdelava spletnih strani-predavanja;Predavatelj VSŠ 7/2;VOUK BOŠTJAN;24;0,06;3;;3;1;B24;2;3
+VSŠ;2IR-informatika;ISS-Izdelava spletnih strani-vaje;Predavatelj VSŠ 7/2;VOUK BOŠTJAN;48;0,13;3;;2;2;B24;2;3
+VSŠ;2IR/2MR-inf,meh;MUL-PIP- Multimediji-predavanja;Predavatelj VSŠ 7/2;VOUK BOŠTJAN;36;0,09;3;;3;1;B24;2;1
+VSŠ;2IR/2MR-inf,meh;MUL-PIP- Multimediji-vaje;Predavatelj VSŠ 7/2;VOUK BOŠTJAN;36;0,09;3;;2;2;B24;2;1
+VSŠ;1KR-UPK;RPR-Rastlinska pridelava in reja živali-predavanja;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;16;0,04;3;;;;;1;2
+VSŠ;1KR-UPK;RPR-Rastlinska pridelava in reja živali-vaje;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;42;0,11;3;;;;;1;2
+VSŠ;2KR-UPK;RPZ-Razvoj podeželja z zakonodajo- lab vaje;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;30;0,08;3;;3;1;MP-07;2;1
+VSŠ;2KR-UPK;RPZ-Razvoj podeželja z zakonodajo- sem vaje;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;6;0,02;3;;;;MP-07;2;1
+VSŠ;2KR-UPK;RPZ-Razvoj podeželja z zakonodajo-predavanja;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;36;0,09;3;;4;1;MP-07;2;1
+VSŠ;1KR/2KR-upk;VDŽ-Zdravstveno varstvo domačih živali-sem vaje;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;3;0,01;3;;;;;1,2;2
+VSŠ;1KR/2KR-upk;VDŽ-Zdravstveno varstvo domačih živali-vaje;Predavatelj VSŠ 7/2;VRH MAKAROVIČ ROSANA;21;0,05;3;;;;;1,2;2
+VSŠ;1KR-UPK;EMP-Ekonomika in menedžment podjetij-sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;6;0,02;3;;;;MP-05;1;1
+VSŠ;1KR-UPK;EMP-Ekonomika in menedžment podjetij-vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;24;0,06;3;;3;1;N3-21;1;1
+VSŠ;2KR-UPK;PIT-Podjetništvo in trženje-predavanja;Predavatelj VSŠ 7/2;ŽIGON POLONA;48;0,13;3;;;;;2;2
+VSŠ;2KR-UPK;PIT-Podjetništvo in trženje-sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;6;0,02;3;;;;;2;2
+VSŠ;2KR-UPK;PIT-Podjetništvo in trženje-vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;48;0,13;3;;;;;2;2
+VSŠ;1IR/1MR/1KR-inf,meh, upk;PKV-Poslovno komuniciranje in vodenje -predavanja;Predavatelj VSŠ 7/2;ŽIGON POLONA;48;0,13;3;;2;2;MP-05;1;1
+VSŠ;1IR-informatika;PKV-Poslovno komuniciranje in vodenje-sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;36;0,09;3;;2;2;MP-05;1;1
+VSŠ;1KR-UPK;PKV-Poslovno komuniciranje in vodenje-sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;6;0,02;3;;;;;1;1
+VSŠ;1MR-mehatronika;PKV-Poslovno komuniciranje in vodenje-sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;36;0,09;3;;2;2;MP-05;1;1
+VSŠ;1KR-UPK;PKV-Poslovno komuniciranje in vodenje-vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;24;0,06;3;;3;1;MP-07;1;1
+VSŠ;1IR-informatika;STJ-Strokovna terminologija v tujem jeziku -predavanja;Predavatelj VSŠ 7/2;ŽIGON POLONA;48;0,13;3;;;;;1;2
+VSŠ;1IR-informatika;STJ-Strokovna terminologija v tujem jeziku -sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;36;0,09;3;1sk;;;;1;2
+VSŠ;1IR-informatika;STJ-Strokovna terminologija v tujem jeziku -sem vaje;Predavatelj VSŠ 7/2;ŽIGON POLONA;36;0,09;3;2sk;;;;1;2
+;;;;;;;3;;;;;2;3
